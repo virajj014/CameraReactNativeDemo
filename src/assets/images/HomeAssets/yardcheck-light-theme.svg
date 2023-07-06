@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Guides" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #a1a7ad;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .85px;
+      }
+
+      .cls-2 {
+        stroke: #00e92f;
+      }
+    </style>
+  </defs>
+  <g id="Group_36317" data-name="Group 36317">
+    <line id="Line_217" data-name="Line 217" class="cls-1" x1="3.52" y1="21.02" x2="3.52" y2="8.49"/>
+    <line id="Line_218" data-name="Line 218" class="cls-1" x1="5.67" y1="21.02" x2="5.67" y2="6.93"/>
+    <line id="Line_219" data-name="Line 219" class="cls-1" x1="7.77" y1="13.24" x2="7.77" y2="5.74"/>
+    <line id="Line_220" data-name="Line 220" class="cls-1" x1="9.91" y1="13.24" x2="9.91" y2="4.36"/>
+    <line id="Line_221" data-name="Line 221" class="cls-1" x1="12.09" y1="13.24" x2="12.09" y2="2.98"/>
+    <line id="Line_222" data-name="Line 222" class="cls-1" x1="20.48" y1="21.02" x2="20.48" y2="8.02"/>
+    <line id="Line_223" data-name="Line 223" class="cls-1" x1="18.37" y1="21.02" x2="18.37" y2="6.68"/>
+    <line id="Line_224" data-name="Line 224" class="cls-1" x1="16.23" y1="13.24" x2="16.23" y2="5.45"/>
+    <line id="Line_225" data-name="Line 225" class="cls-1" x1="14.23" y1="13.24" x2="14.23" y2="4.27"/>
+    <path id="checkmark-outline" class="cls-2" d="m15.05,15.25l-4.15,4.74-1.78-1.78"/>
+  </g>
+</svg>
